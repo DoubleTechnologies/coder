@@ -1,3 +1,3 @@
-FROM ghcr.io/coder/coder:v0.23.2
+FROM ghcr.io/coder/coder:v0.26.0
 ENV CODER_TELEMETRY_INSTALL_SOURCE=heroku
 ENTRYPOINT []
